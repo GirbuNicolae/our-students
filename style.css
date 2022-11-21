@@ -111,3 +111,22 @@ p {
 .custom-card .contact img {
   width: 40px;
 }
+
+.victor-cujba:hover {
+  color:#E69A8DFF ; 
+  background-color: #5F4B8BFF;
+}
+
+.victor-cujba {
+  border-radius: 5px ;
+}
+
+
+.contact-victor img:hover {
+  transform: scale(1.1)
+} 
+
+.contact-victor img {
+  transition: all 0.2s;
+}
+
